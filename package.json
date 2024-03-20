@@ -3,6 +3,16 @@
   "version": "1.0.0",
   "description": "my package",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.4",
+    "deotheme": "^1.0.0",
+    "deo-vector-math": "^1.0.0",
+    "deo-big-factorial": "^1.0.0",
+    "summathd": "^1.0.0",
+    "sum-math-deo2": "^1.0.0",
+    "sum-math-deo": "^1.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/xuandieu1210/summathd.git"
